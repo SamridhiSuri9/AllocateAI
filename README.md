@@ -9,8 +9,6 @@ job-aggregation + match-notification pipeline for the open market, and a
 final match runs. No synthetic applicants anywhere in the system — every
 applicant is a real registered person who uploaded a real resume.
 
-Built for the **AI First Hackathon (Summer School '26)** by Team Stack
-Masters, The NorthCap University.
 
 ## What's in here
 
