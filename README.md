@@ -28,7 +28,7 @@ Two tracks, sharing one scoring engine:
       (`interview_selection.py`). This is the piece that turns "we have 3
       interview slots and 200 applicants" into "here are exactly the 3
       pairs where an interview could change who gets the seat."
-   4. **Finalize** — conduct the selected interviews, record outcomes, then
+   4. **Finalize** - conduct the selected interviews, record outcomes, then
       run the real deferred-acceptance match, using recorded outcomes
       wherever they exist and the original AI score everywhere else.
    A one-shot `/api/allocate` endpoint that skips straight to a stable
